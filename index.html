@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="../assets/images/favicon-32x32.png" type="image/x-icon">
+    <title>See the project</title>
+
+    <style>
+        @import url(styles/styles.css);
+        body{
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            font-family: var(--font-regular);
+            overflow: hidden;
+        }
+        button {
+            font-family: var(--font-bold);
+            font-size: 16px;
+            background-color: rgb(36, 39, 66);
+            color: #fff;
+            width: 25%;
+            height: 50px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+        
+        button:hover {
+            transition: all 2s;
+            background: linear-gradient(to left, rgb(255, 98, 87), 80%, #ff2ad1);
+            box-shadow: 0 5px 20px rgba(255, 98, 8, 0.6);
+        }
+
+        a{
+            text-decoration: none;
+            color: #fff;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Click in the button to go to main page</h1>
+    <button><a href="pages/main.html">Click here</a></button>
+</body>
+</html>
