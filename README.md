@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Screenshot
 
-![assets/images/screenshot.jpeg]
+![Main page of the website](assets/images/screenshot.jpeg?raw=true "Main Page")
 
 ### Links
 
