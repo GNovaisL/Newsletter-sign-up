@@ -18,7 +18,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Main page of the website](assets/images/screenshot.jpeg?raw=true "Main Page")
+![Main page of the website](![image](https://github.com/user-attachments/assets/cff57e5b-49ca-4211-8c18-615491712d29)
+)
 
 ### Links
 
